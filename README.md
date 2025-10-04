@@ -1,4 +1,4 @@
-## Simple DEFİ DAap 
+## Simple DeFİ DAap 
 
 This project is a "learning-oriented mini defi application" written in Solidity. 
 It consists of three main compenents:
