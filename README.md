@@ -13,7 +13,7 @@ It consists of three main compenents:
 - Easy to test and deploy on Remix IDE 
 
 
-## How to RUN  
+## How to Run 
 1. Open Remix IDE
 2. Create a new file named "Project.sol" and paste the Solidity code from this repository.
 3. In the Compiler tab, select version '0.8.17' and compile
